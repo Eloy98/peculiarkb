@@ -1,8 +1,8 @@
 ---
-title: Enter30
+title: Enter30 Build Guide
 subtitle:
-date: 2024-11-06T10:55:43+08:00
-slug: c7431f1
+date: 2024-11-06T17:10:41+08:00
+slug: e543ce3
 draft: false
 author:
   name:
@@ -41,6 +41,4 @@ repost:
 ---
 
 <!--more-->
-测试测试
-# 1Enter30
-我eur哦未入
+English Test
