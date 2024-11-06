@@ -7,5 +7,10 @@
 
 [home]
   [home.profile]
+    enable = true
     subtitle = "爱做奇特键盘的程序员"
-   
+    [home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    # 主页每页显示文章数量
+    paginate = 6
