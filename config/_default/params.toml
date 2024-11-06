@@ -75,7 +75,7 @@ disableThemeInject = false
 [search]
   enable = true
   # type of search engine ["algolia", "fuse"]
-  type = "fuse"
+  type = "algolia"
   # max index length of the chunked content
   contentLength = 4000
   # placeholder of the search bar
@@ -89,9 +89,9 @@ disableThemeInject = false
   # whether to use the absolute URL based on the baseURL in search index
   absoluteURL = false
   [search.algolia]
-    index = ""
-    appID = ""
-    searchKey = ""
+    index = "keyboard"
+    appID = "ETG9ULY1WO"
+    searchKey = "6348032f8fc69d372bf9bfa10847cc63"
   [search.fuse]
     # FixIt 0.2.17 | NEW https://fusejs.io/api/options.html
     isCaseSensitive = false
