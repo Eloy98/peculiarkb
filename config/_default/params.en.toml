@@ -1,0 +1,10 @@
+[gitInfo]
+  dir = "content/en"
+
+[search]
+  [search.algolia]
+    index = "index.en"
+
+[home]
+  [home.profile]
+    subtitle = "A Programmer who loves to make peculiar keyboards"

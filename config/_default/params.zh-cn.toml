@@ -1,0 +1,10 @@
+[gitInfo]
+  dir = "content/zh-cn"
+
+[search]
+  [search.algolia]
+    index = "index.zh-cn"
+    
+[home]
+  [home.profile]
+    subtitle = "爱做奇特键盘的程序员"
