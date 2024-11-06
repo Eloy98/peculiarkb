@@ -4,7 +4,7 @@
 # -------------------------------------------------------------------------------------
 
 title = "Hugo FixIt Blog"
-baseURL = "eloy98.github.io/peculiarkb/"
+baseURL = "https://eloy98.github.io/peculiarkb/"
 # theme = "FixIt"
 defaultContentLanguage = "en"
 languageCode = "en"
