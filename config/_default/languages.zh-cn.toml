@@ -19,3 +19,8 @@ hasCJKLanguage = true
 # copyright description used only for seo schema
 # 版权描述，仅用于 SEO
 copyright = "本站内容采用 CC BY-NC-SA 4.0 国际许可协议。"
+
+[params.search]
+   enable = true     
+  # 搜索引擎的类型 ("lunr", "algolia")     
+  type = "algolia"  
