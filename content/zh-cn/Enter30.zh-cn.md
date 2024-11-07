@@ -46,7 +46,7 @@ repost:
 <!--more-->
 ## 一、组装
 ### 套件包含
-> [!tip]
+
 >- 外壳*1
 >- pcb*1
 >- 夹心棉*1
@@ -57,7 +57,7 @@ repost:
 ![Step1.1](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881529/keyboard/Enter30/step1.1_lcluc5.jpg)
 
 ### 需自备物品
-> [!tip]
+
 > - 剪刀
 > - 镊子
 > - 轴体若干
