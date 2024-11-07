@@ -8,13 +8,14 @@ type: posts
 author:
   name: xiix
   link:
-  email:
+  email: eloy1172240653@gmail.com
   avatar: 
 description:
 keywords:
 license:
 comment: false
 weight: 1
+featuredImagePreview: "https://res.cloudinary.com/dref0olos/image/upload/c_crop,ar_16:9/v1730945913/keyboard/Enter30/B2F949AFC5ECBFA0092ABC305AD23D55_lxvequ.jpg"
 tags:
   - 40%
   - qmk

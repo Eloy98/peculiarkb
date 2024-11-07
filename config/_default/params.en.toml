@@ -4,7 +4,19 @@
 [search]
   [search.algolia]
     index = "index.en"
-
+ 
 [home]
+  paginate = 10
   [home.profile]
+    enable = true
+    gravatarEmail = ""
+    avatarURL = "/images/avatar.jpg"
+    avatarMenu = ""
+    title = "xiix"
     subtitle = "A Programmer who loves to make peculiar keyboards"
+    typeit = true
+    social = true
+    disclaimer = ""
+  [home.posts]
+    enable = true
+    paginate = 6        

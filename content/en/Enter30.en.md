@@ -16,9 +16,10 @@ license:
 comment: false
 weight: 0
 tags:
-  - draft
+  - 40%
+  - qmk
 categories:
-  - draft
+  - doc
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
