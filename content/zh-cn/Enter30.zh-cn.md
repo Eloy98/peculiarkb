@@ -102,6 +102,12 @@ repost:
 {{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881613/keyboard/Enter30/step3.5_ovcern.jpg" caption="拧螺丝">}}
 
 ## 二、设置蓝牙
+> [!IMPORTANT]vial软件需要以下链接中的版本，其他版本会导致蓝牙相关键值乱码
+### 软件下载
+> [!todo]点击下方链接进入下载页面
+
+{{< link "https://www.123684.com/s/WAltVv-I3Zwh" "Vial_win" "Vial_win" true "fa-solid fa-download" >}}
+
 ### 软件操作
 > [!todo]将键盘连接到电脑，打开vial软件
 

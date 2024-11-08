@@ -32,7 +32,7 @@ resources:
     src: featured-image-preview.jpg
 toc: true
 math: false
-lightgallery: false
+lightgallery: true
 password:
 message:
 repost:
@@ -43,4 +43,5 @@ repost:
 ---
 
 <!--more-->
-English Test
+English Test> 
+> [!IMPORTANT] 
