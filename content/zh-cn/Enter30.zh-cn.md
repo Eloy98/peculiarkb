@@ -33,7 +33,7 @@ resources:
     src: featured-image-preview.jpg
 toc: true
 math: false
-lightgallery: false
+lightgallery: true
 password:
 message:
 repost:
@@ -54,7 +54,7 @@ repost:
 >- usb小板（已安装到下壳）
 >- 配件包
 
-![Step1.1](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881529/keyboard/Enter30/step1.1_lcluc5.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881529/keyboard/Enter30/step1.1_lcluc5.jpg">}}
 
 ### 需自备物品
 
@@ -63,39 +63,92 @@ repost:
 > - 轴体若干
 > - 2u卫星轴*3
 
-![Step1.2](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881529/keyboard/Enter30/step1.2_bubizh.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881529/keyboard/Enter30/step1.2_bubizh.jpg" caption="自备物品">}}
 
 ### 下盖处理
 > [!todo]将配件包的棉条拿出，上下凸起处各贴4条，左右凸起处各1条（需自行剪开），如下图所示
 
-![Step1.3](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881611/keyboard/Enter30/step2.2_q6q4yh.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881611/keyboard/Enter30/step2.2_q6q4yh.jpg" caption="下盖处理">}}
 
 ### 上盖处理（可选）
 > [!todo]上盖对应凹槽处，贴对应数量的棉条
 
-![Step1.4](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881610/keyboard/Enter30/step2.3_shqaad.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881610/keyboard/Enter30/step2.3_shqaad.jpg" caption="上盖处理">}}
 
 ### 插轴
 > [!todo]将定位板、夹心棉和pcb（从上至下顺序）叠放在一起，插入轴体并安装卫星轴
  
-![Step1.5](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881613/keyboard/Enter30/step3.1_vkbygc.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881613/keyboard/Enter30/step3.1_vkbygc.jpg" caption="插轴">}}
+
 
 ### 插线
 > [!WARNING]将组好内胆翻转，插好usb线和电池线，接口顺序如下图所示
 
-![Step1.6.1](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881610/keyboard/Enter30/step5.1_fbum9x.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881610/keyboard/Enter30/step5.1_fbum9x.jpg" caption="电池接口方向">}}
 
-![Step1.6.2](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881610/keyboard/Enter30/step5.2_mgi3p6.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881610/keyboard/Enter30/step5.2_mgi3p6.jpg" caption="usb接口方向">}}
 
-![Step1.6.3](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881611/keyboard/Enter30/step3.2_lnsdsa.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881611/keyboard/Enter30/step3.2_lnsdsa.jpg" caption="插线">}}
+
 ### 组装上下盖
 > [!todo]插好线之后，将内胆平放在下壳上，拿出上盖，与下壳压到一起
 
-![Step1.7.1](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881612/keyboard/Enter30/step3.3_eoyli2.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881612/keyboard/Enter30/step3.3_eoyli2.jpg" caption="组装上下盖">}}
 
-![Step1.7.2](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881612/keyboard/Enter30/step3.4_ydx8ko.jpg)
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881612/keyboard/Enter30/step3.4_ydx8ko.jpg" caption="组装上下盖">}}
 
 > [!todo]取出螺丝和螺丝刀，翻转键盘，拧好螺丝
 
-![Step1.7.3](https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881613/keyboard/Enter30/step3.5_ovcern.jpg)
-# 2使用
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/c_fit,q_50,w_1200/v1730881613/keyboard/Enter30/step3.5_ovcern.jpg" caption="拧螺丝">}}
+
+## 二、设置蓝牙
+### 软件操作
+> [!todo]将键盘连接到电脑，打开vial软件
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1731054755/keyboard/Enter30/key1.1_gsqxlu.png" caption="vial界面">}}
+
+> [!todo]选择想要放置蓝牙配置的键盘层，下方选择Quantum选项卡，找到最下方的6个键值
+>> - BLE0：蓝牙通道1
+>> - BLE1：蓝牙通道2
+>> - BLE2：蓝牙通道3
+>> - BLE DEL；删除当前通道
+>> - USB MODE: 切换键盘为usb模式
+>> - RADIO MODE: 切换键盘为2.4G模式
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1731054755/keyboard/Enter30/key1.2_ss7unl.png" caption="配置蓝牙按键">}}
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1731054755/keyboard/Enter30/key1.3_q4wtsh.png" caption="配置蓝牙按键">}}
+
+> [!todo]返回第0层，设置一个切层按键，示例为切到第二层触发蓝牙
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1731054755/keyboard/Enter30/key1.4_eg7vrb.png" caption="配置蓝牙按键">}}
+
+### 蓝牙配对
+> [!todo]拔出键盘usb线，打开电池开关，向上为打开，向下为关闭
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1730881618/keyboard/Enter30/step4.1_yviyuh.jpg" caption="蓝牙开关位置">}}
+
+> [!todo]切层到蓝牙层，触发BLE0键值，此时键盘为蓝牙广播状态，打开电脑蓝牙，选择添加蓝牙设备
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1731056134/keyboard/Enter30/bl1.1_kws51d.png" caption="打开蓝牙">}}
+
+> [!todo] 点击蓝牙
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1731056134/keyboard/Enter30/bl1.2_cj7zx8.png" caption="选择蓝牙">}}
+
+> [!todo] 在蓝牙界面点击ENTER30_BLE_O
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1731056134/keyboard/Enter30/bl1.3_illkyz.png" caption="选择键盘">}}
+
+> [!todo] 系统提示准备就绪之后，点击已完成
+
+{{< image src="https://res.cloudinary.com/dref0olos/image/upload/v1731056134/keyboard/Enter30/bl1.4_c07wzc.png" caption="完成配对">}}
+
+### 蓝牙说明
+
+> 1. Enter30一共支持3个蓝牙通道，对应的蓝牙设备名字为：**ENTER30_BLE_O**、**ENTER30_BLE_1**和**ENTER30_BLE_2**
+> 2. Enter30从无线模式到有线模式，插线之后，需要触发**USB MODE**键值
+> 3. Enter30从有线模式切换到无线模式，需要触发对应的通道键值
+> 4. 如果当前通道需要绑定新设备，需要触发**BLE DEL**键值
+
+
